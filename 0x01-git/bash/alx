@@ -1,7 +1,2 @@
 #!/bin/bash
 echo "ALX school is so cool"
-^c
-^C
-clear
-:q!
-^C
